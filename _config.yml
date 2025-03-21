@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhenting Wang's homepage"
+title                    : "Tingxu Han's homepage"
 title_separator          : "-"
-name                     : &name "Zhenting Wang"
-description              : &description "PhD student in CS@Rutgers"
-url                      : https://zhentingwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Tingxu Han"
+description              : &description "PhD student in SE@NJU"
+url                      : https://txhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhentingwang.github.io"
+repository               : "txhan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhenting Wang"
+  name             : "Tingxu Han"
   avatar           : 
-  bio              : "PhD student in CS@Rutgers"
-  location         : "Piscataway, NJ 08854"
+  bio              : "PhD student in SE@NJU"
+  location         : "Nanjing, 210023,"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=QSYVbj8AAAAJ&hl=en"
-  email            : "zhenting.wang@rutgers.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=4dmJoDQAAAAJ"
+  email            : "txhan@smail.nju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZhentingWang"
+  github           : "GeniusHTX"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : wang1999_zt
+  twitter          :
   vine             :
   weibo            :
   xing             :
