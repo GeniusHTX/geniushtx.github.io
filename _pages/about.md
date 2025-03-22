@@ -56,7 +56,7 @@ Yuchen Chen, Weisong Sun, Chunrong Fang, Zhenpeng Chen, Yifei Ge, **Tingxu Han**
 Weisong Sun, Chunrong Fang, Yuchen Chen, Quanjun Zhang, Guanhong Tao, Yudu You, **Tingxu Han**, Yifei Ge, Yuling Hu, Bin Luo, Zhenyu Chen (**CCF A, TOSEM 2024**)
 
 * [RULER: discriminative and iterative adversarial training for deep neural network fairness](https://par.nsf.gov/servlets/purl/10376666)  
-Guanhong Tao\*, Weisong Sun\*,** Tingxu Han\***, Chunrong Fang, Xiangyu Zhang (**CCA, FSE 2022**, **\* indicates equal contribution**)
+Guanhong Tao\*, Weisong Sun\*, **Tingxu Han**\*, Chunrong Fang, Xiangyu Zhang (**CCF A, FSE 2022, \* indicates equal contribution**)
 
 * [Code search based on context-aware code translation](https://arxiv.org/pdf/2202.08029)  
 Weisong Sun, Chunrong Fang, Yuchen Chen, Guanhong Tao, Tingxu Han, Quanjun Zhang (**CCF A, ICSE 2022**)
