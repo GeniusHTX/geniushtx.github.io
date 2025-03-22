@@ -38,7 +38,7 @@ Publications
 
 
 * [Towards Imperceptible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)  
-Hanrong Zhang, Zhenting Wang, **Tingxu Han**, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma (**CCF A CVPR 2025**)
+Hanrong Zhang, Zhenting Wang, **Tingxu Han**, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma (**CCF A,  CVPR 2025**)
 
 
 * [On the effectiveness of distillation in mitigating backdoors in pre-trained encoder](https://arxiv.org/pdf/2403.03846)  
@@ -51,13 +51,11 @@ Hanrong Zhang, Zhenting Wang, **Tingxu Han**, Mingyu Jin, Chenlu Zhan, Mengnan D
 Yuchen Chen, Weisong Sun, Chunrong Fang, Zhenpeng Chen, Yifei Ge, **Tingxu Han**, Quanjun Zhang, Yang Liu, Zhenyu Chen, Baowen Xu (Preprint)
 
 * [An Extractive-and-Abstractive Framework for Source Code Summarization](https://arxiv.org/abs/2410.15631)  
-Weisong Sun, Chunrong Fang, Yuchen Chen, Quanjun Zhang, Guanhong Tao, Yudu You, **Tingxu Han**, Yifei Ge, Yuling Hu, Bin Luo, Zhenyu Chen (**CCF A TOSEM 2024**)
+Weisong Sun, Chunrong Fang, Yuchen Chen, Quanjun Zhang, Guanhong Tao, Yudu You, **Tingxu Han**, Yifei Ge, Yuling Hu, Bin Luo, Zhenyu Chen (**CCF A, TOSEM 2024**)
 
 * [RULER: discriminative and iterative adversarial training for deep neural network fairness](https://par.nsf.gov/servlets/purl/10376666)  
-Guanhong Tao, Weisong Sun,** Tingxu Han**\*, Chunrong Fang, Xiangyu Zhang (**CCA FSE 2022, \* indicates equal contribution**)
+Guanhong Tao\*, Weisong Sun\*,** Tingxu Han**\*, Chunrong Fang, Xiangyu Zhang (**CCA, FSE 2022**, **\* indicates equal contribution**)
 
 * [Code search based on context-aware code translation](https://arxiv.org/pdf/2202.08029)  
-Weisong Sun, Chunrong Fang, Yuchen Chen, Guanhong Tao, Tingxu Han, Quanjun Zhang (**CCF A ICSE 2022**)
-
-
+Weisong Sun, Chunrong Fang, Yuchen Chen, Guanhong Tao, Tingxu Han, Quanjun Zhang (**CCF A, ICSE 2022**)
 
