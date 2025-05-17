@@ -17,7 +17,9 @@ redirect_from:
 
 News
 ======
-* [2025-02] Our research paper " Mutual information guided backdoor mitigation for pre-trained encoders"  on Responsible AI got accepted by TIFS!
+* [2025-05] Our research paper "Token-Budget-Aware LLM Reasoning" on LLM Reasoning got accepted by ACL!
+* [2025-05] Our research paper "Security of Language Models for Code: A Systematic Literature Review" on LLM Reasoning got accepted by TOSEM!
+* [2025-02] Our research paper "Mutual information guided backdoor mitigation for pre-trained encoders"  on Responsible AI got accepted by TIFS!
 * [2025-02] Our research paper "Towards Imperceptible Backdoor Attack in Self-supervised Learning"  on Responsible AI got accepted by CVPR!
 
 <br>
@@ -28,7 +30,7 @@ Publications
 ### LLM Reasoning
 
 * [Token-Budget-Aware LLM Reasoning](https://arxiv.org/pdf/2412.18547)  
-**Tingxu Han**\*, Zhenting Wang\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (Preprint, **\* indicates equal contribution**)
+**Tingxu Han**\*, Zhenting Wang\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (**CCF A,  ACL 2025 findings, \* indicates equal contribution**)
 
 
 
@@ -50,7 +52,7 @@ Hanrong Zhang, Zhenting Wang, **Tingxu Han**, Mingyu Jin, Chenlu Zhan, Mengnan D
 
 ### AI for SE
 * [Security of Language Models for Code: A Systematic Literature Review](https://arxiv.org/abs/2410.15631)  
-Yuchen Chen, Weisong Sun, Chunrong Fang, Zhenpeng Chen, Yifei Ge, **Tingxu Han**, Quanjun Zhang, Yang Liu, Zhenyu Chen, Baowen Xu (Preprint)
+Yuchen Chen, Weisong Sun, Chunrong Fang, Zhenpeng Chen, Yifei Ge, **Tingxu Han**, Quanjun Zhang, Yang Liu, Zhenyu Chen, Baowen Xu (**CCF A, TOSEM 2025**)
 
 * [An Extractive-and-Abstractive Framework for Source Code Summarization](https://arxiv.org/abs/2410.15631)  
 Weisong Sun, Chunrong Fang, Yuchen Chen, Quanjun Zhang, Guanhong Tao, Yudu You, **Tingxu Han**, Yifei Ge, Yuling Hu, Bin Luo, Zhenyu Chen (**CCF A, TOSEM 2024**)
