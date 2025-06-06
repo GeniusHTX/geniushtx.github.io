@@ -44,6 +44,8 @@ Publications
 * [Towards Imperceptible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)  
 Hanrong Zhang, Zhenting Wang, **Tingxu Han**, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma (**CCF A,  CVPR 2025**)
 
+* [Mutual information guided backdoor mitigation for pre-trained encoders](https://ieeexplore.ieee.org/abstract/document/10930652)  
+Tingxu_Han, Weisong Sun, Ziqi Ding, Chunrong Fang, Hanwei Qian, Jiaxun Li, Zhenyu Chen, Xiangyu Zhang (**CCF A,  TIFS 2025**)
 
 * [On the effectiveness of distillation in mitigating backdoors in pre-trained encoder](https://arxiv.org/pdf/2403.03846)  
 **Tingxu Han**, Shenghan Huang, Ziqi Ding, Weisong Sun, Yebo Feng, Chunrong Fang, Jun Li, Hanwei Qian, Cong Wu, Quanjun Zhang, Yang Liu, Zhenyu Chen (Preprint)
