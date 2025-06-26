@@ -30,7 +30,7 @@ Publications
 ### LLM Reasoning
 
 * [Token-Budget-Aware LLM Reasoning](https://arxiv.org/pdf/2412.18547)  
-**Tingxu Han**\*, Zhenting Wang\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (**CCF A,  ACL 2025 findings, \* indicates equal contribution**)
+**Tingxu Han**\*, Zhenting Wang\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (**CCF A,  ACL 2025 findings, \* indicates equal contribution**, **<font color=red>HuggingFace Daily Paper Top1</font>**)
 
 
 
