@@ -17,6 +17,7 @@ redirect_from:
 
 News
 ======
+* [2025-09] Our research paper "Continuous Concepts Removal in Text-to-image Diffusion Models" on Responsible AI got accepted by NeuralPS!
 * [2025-05] Our research paper "Token-Budget-Aware LLM Reasoning" on LLM Reasoning got accepted by ACL!
 * [2025-05] Our research paper "Security of Language Models for Code: A Systematic Literature Review" on LLM Reasoning got accepted by TOSEM!
 * [2025-02] Our research paper "Mutual information guided backdoor mitigation for pre-trained encoders"  on Responsible AI got accepted by TIFS!
@@ -38,7 +39,7 @@ Publications
 ### Responsible AI
 
 * [Continuous Concepts Removal in Text-to-image Diffusion Models](https://arxiv.org/pdf/2412.00580)  
-**Tingxu Han**, Weisong Sun, Yanrong Hu, Chunrong Fang, Yonglong Zhang, Shiqing Ma, Tao Zheng, Zhenyu Chen, Zhenting Wang (Preprint)
+**Tingxu Han**, Weisong Sun, Yanrong Hu, Chunrong Fang, Yonglong Zhang, Shiqing Ma, Tao Zheng, Zhenyu Chen, Zhenting Wang (**CCF A,  NeurIPS 2025**)
 
 
 * [Towards Imperceptible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)  
