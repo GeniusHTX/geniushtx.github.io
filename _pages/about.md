@@ -66,3 +66,8 @@ Guanhong Tao\*, Weisong Sun\*, **Tingxu Han**\*, Chunrong Fang, Xiangyu Zhang (*
 * [Code search based on context-aware code translation](https://arxiv.org/pdf/2202.08029)  
 Weisong Sun, Chunrong Fang, Yuchen Chen, Guanhong Tao, Tingxu Han, Quanjun Zhang (**CCF A, ICSE 2022**)
 
+Service
+======
+* Reviewer, Association for the Advancement of Artificial Intelligence (AAAI), 2026.
+* Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM), 2026.
+
