@@ -17,6 +17,7 @@ redirect_from:
 
 News
 ======
+* [2026-05] Our research paper "Debiasing LLMs by Masking Unfairness-Driving Attention Heads" on Responsible AI got accepted by ACL!
 * [2025-09] Our research paper "Continuous Concepts Removal in Text-to-image Diffusion Models" on Responsible AI got accepted by NeuralPS!
 * [2025-05] Our research paper "Token-Budget-Aware LLM Reasoning" on LLM Reasoning got accepted by ACL!
 * [2025-05] Our research paper "Security of Language Models for Code: A Systematic Literature Review" on LLM Reasoning got accepted by TOSEM!
@@ -37,6 +38,8 @@ Publications
 
 
 ### Responsible AI
+* [Debiasing LLMs by Masking Unfairness-Driving Attention Heads](https://arxiv.org/pdf/2510.10142)
+**Tingxu Han**, Wei Song, Ziqi Ding, Ziming Li, Chunrong Fang, Yuekang Li, Dongfang Liu, Zhenyu Chen, Zhenting Wang (**CCF A,  NeurIPS 2025**)
 
 * [Continuous Concepts Removal in Text-to-image Diffusion Models](https://arxiv.org/pdf/2412.00580)  
 **Tingxu Han**, Weisong Sun, Yanrong Hu, Chunrong Fang, Yonglong Zhang, Shiqing Ma, Tao Zheng, Zhenyu Chen, Zhenting Wang (**CCF A,  NeurIPS 2025**)
